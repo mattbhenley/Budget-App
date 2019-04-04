@@ -1,4 +1,4 @@
 # Budget-App
 A budget app built with HTML, CSS, and JavaScript. 
 
-![budgetapp](https://github.com/mattbhenley/Images)
+![Budget App](https://github.com/mattbhenley/Images/blob/master/budgetapp.PNG)
